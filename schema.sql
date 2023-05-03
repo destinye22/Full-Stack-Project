@@ -4,7 +4,7 @@ create table users {
     email varchar(50) not null
 };
 
-creste table posts {
+create table posts {
     id serial primary key
     url text not null,
     user_id integer refernces users (id)

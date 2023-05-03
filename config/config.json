@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": null,
-    "database": "Nature Photography App",
+    "database": "Customer Database",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
